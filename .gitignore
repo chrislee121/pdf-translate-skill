@@ -44,3 +44,7 @@ env/
 # Test files
 test_*.py
 *_test.py
+
+# Local setup guides (not to be published)
+GITHUB_SETUP_GUIDE.md
+*.local
